@@ -1,5 +1,5 @@
 {
-    "name": "eventbrite/eventbrite-sdk-php",
+    "name": "rauwebieten/twig-stringy-extension",
     "description": "PHP SDK for the Eventbrite API.",
     "require": {
     },
